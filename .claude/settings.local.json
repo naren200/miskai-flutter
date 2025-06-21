@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(find:*)",
+      "Bash(cp:*)",
+      "Bash(grep:*)"
+    ],
+    "deny": []
+  }
+}

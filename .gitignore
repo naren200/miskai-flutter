@@ -1,0 +1,44 @@
+# Flutter/Dart
+.dart_tool/
+*.iml
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+coverage/
+.nyc_output/
+lib/generated_plugin_registrant.dart
+
+# Generated files
+**/GeneratedPluginRegistrant.*
+**/Generated.xcconfig
+**/flutter_export_environment.sh
+**/ephemeral/
+**/generated_plugin_registrant.*
+**/generated_plugins.cmake
+**/flutter_windows.dll*
+**/flutter_windows.h
+**/generated_config.cmake
+**/cpp_client_wrapper/
+**/icudtl.dat
+**/local.properties
+**/*.iml
+**/gradle-wrapper.jar
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+misaki/*
+dump.txt
+CLAUDE.md
